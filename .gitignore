@@ -1,0 +1,6 @@
+*.DS_Store
+*.db
+*.tsv.gz
+*.csv.gz
+
+zippedData/im.db
