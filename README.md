@@ -18,7 +18,7 @@ The primary audience for this project is the head of the new movie studio and th
 ### Datasets
 This project makes use of:
 - **Movie Budgets Data:** A compressed CSV file (`bom.movie_gross.csv.gz`) that includes production budgets, domestic and worldwide grosses, and release dates.
-- **IMDb Data:** Extracted from a zipped SQLite database (`im.db.zip`) and a supplemental CSV file (`imdb_supplemental_cleaned.csv`), providing additional metadata (ratings, runtime, genres, and cast/crew details).
+- **IMDb Data:** Extracted from a zipped SQLite database (`im.db.zip`), providing additional metadata (ratings, runtime, genres, and cast/crew details).
 
 The provided data files are stored in the `./zippedData/` and `./Data/` folders. The code also generates several images (e.g., bar charts and pie charts) stored in the `./Images/` folder.
 
